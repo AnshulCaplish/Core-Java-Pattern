@@ -1,5 +1,14 @@
 package Pattern;
 
+/*          RIGHT ANGLED PYRAMID 
+ 
+   *
+  **
+ ***
+****
+ 
+ */
+
 public class RIghtAnglesPyramid {
 
 	public static void main(String[] args) {

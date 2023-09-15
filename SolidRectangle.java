@@ -1,5 +1,14 @@
 package Pattern;
 
+/*     SOLID RECTANGLE
+  
+* * * * * 
+* * * * * 
+* * * * * 
+* * * * * 
+ 
+ */
+
 public class SolidRectangle {
 
 	public static void main(String[] args) {
